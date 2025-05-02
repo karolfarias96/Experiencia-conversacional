@@ -1,0 +1,90 @@
+[
+  {
+    "id": "b9992821-d810-470e-ac9f-fe75360ef82e",
+    "data": [
+      {
+        "text": "Quem são vocês?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "78437e30-5022-493b-838a-dd511a4d4c67",
+    "data": [
+      {
+        "text": "Quando a FURIA foi criada?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a64edb78-4147-4b5d-b495-b9d5700b4a5b",
+    "data": [
+      {
+        "text": "Tem brasileiro no time?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1b085dd4-92f3-4f22-9ea9-4f96ab265702",
+    "data": [
+      {
+        "text": "Eles jogam só CS?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d42da49d-5e1f-4048-8572-4a689c770eb8",
+    "data": [
+      {
+        "text": "Tem time de LoL também?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ed3164cc-426c-4187-ad36-a05c34d25860",
+    "data": [
+      {
+        "text": "O que é ",
+        "userDefined": false
+      },
+      {
+        "text": "FURIA",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

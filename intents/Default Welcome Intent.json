@@ -1,0 +1,71 @@
+{
+  "id": "598f14b8-f901-496d-bbbd-9622cf69603b",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5d48c85f-185b-4aca-9c92-9c76dd419df4",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "🐾Fala, torcedor(a)! Preparado pra rugir com a FURIA hoje?",
+            "🔥 E aí, Pantera! Bora acompanhar os mitos do CS?",
+            "🎮 Salve salve! Aqui é FÚRIA total. O que manda?",
+            "🖤 Bem-vindo ao território das Panteras. Pronto pro jogo?",
+            "👊 Chegou na hora certa, o servidor tá pegando fogo!",
+            "🐯 VAMO FURIAAAA! O que você quer ver hoje?",
+            "🎧 Opa! Aqui é torcedor de verdade ou turista? Brincadeira 😎 — como posso ajudar?",
+            "⚡ Saudações, guerreiro(a) da selva! Preparado pra ação?",
+            "🎤 Seja bem-vindo(a)! Aqui a gente vive CS na veia!",
+            "📢 Alerta de Pantera na área! Como posso te ajudar hoje?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

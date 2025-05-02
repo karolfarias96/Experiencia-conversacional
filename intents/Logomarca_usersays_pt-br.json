@@ -1,0 +1,99 @@
+[
+  {
+    "id": "46e4596a-19bf-4c0c-b3b3-22d10828066c",
+    "data": [
+      {
+        "text": "Bandeira",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6b9e1db1-501a-4028-80cd-ad03742ffdb2",
+    "data": [
+      {
+        "text": "Escudo",
+        "meta": "@sys.currency-name",
+        "alias": "currency-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "87911f5f-91ce-4849-ac24-42eee3ae7c0a",
+    "data": [
+      {
+        "text": "Emblema",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ee023e4b-d21f-446a-9141-36d1138a6a4b",
+    "data": [
+      {
+        "text": "Marca",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d0f2af53-7783-49ff-88df-4b86c107dda8",
+    "data": [
+      {
+        "text": "Simbolo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9fb2e5c9-ba9f-4925-ad9d-4f6162bf1573",
+    "data": [
+      {
+        "text": "Logo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c5fc5947-f908-4d72-9eaa-a8a2a67b130e",
+    "data": [
+      {
+        "text": "Logomarca",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

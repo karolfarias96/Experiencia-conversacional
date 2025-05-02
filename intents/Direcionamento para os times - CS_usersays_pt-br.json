@@ -1,0 +1,36 @@
+[
+  {
+    "id": "3997a4ff-d0cb-440f-90f0-3a88277581a0",
+    "data": [
+      {
+        "text": "CS",
+        "meta": "@sys.language",
+        "alias": "language",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3a67b278-430d-4cbc-a256-a02d9c1b03a3",
+    "data": [
+      {
+        "text": "CS ",
+        "userDefined": false
+      },
+      {
+        "text": "GO",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

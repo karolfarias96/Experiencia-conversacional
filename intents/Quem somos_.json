@@ -1,0 +1,52 @@
+{
+  "id": "08e0ecfa-c8bd-4906-84c2-20ff3ff5b64a",
+  "name": "Quem somos?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c519a2b4-45db-4ee4-9a8b-ac5071ac83e1",
+          "name": "last-name",
+          "required": false,
+          "dataType": "@sys.last-name",
+          "value": "$last-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "🐾 A FURIA é uma organização brasileira de eSports, famosa principalmente pelo seu time de Counter-Strike.\nFundada em 2017, ela representa o Brasil nas maiores competições do mundo com um estilo de jogo agressivo e apaixonado!\n🎮 Além do CS, a FURIA também marca presença em jogos como Valorant, League of Legends, Apex Legends e até Xadrez Online!\n\n🇧🇷 A base da FURIA é brasileira — e com muito orgulho!\nO time nasceu aqui e valoriza o talento nacional. Nomes como KSCERATO, yuurih e FalleN são ícones da torcida.\n\n🧙‍♂️ No LoL, a FURIA disputa o CBLOL, o principal campeonato brasileiro da modalidade.\nEles encaram cada partida com garra e foco, levando o espírito pantera para a Summoner’s Rift. ⚔️\n\n🗓️ Fundada por André Akkari, Jaime Pádua e Cris Guedes, a FURIA cresceu rápido e se tornou uma potência global no cenário competitivo. 🌍🔥",
+            "👋 Seja bem-vindo(a) ao mundo da FURIA, uma organização brasileira que nasceu em 2017 pra mostrar que o Brasil tem garra nos eSports!\nDo CS:GO ao LoL, aqui a competição é levada a sério — e sempre com paixão.\n\n🎮 Além de dominar o cenário de Counter-Strike, a FURIA também marca presença em jogos como Valorant, Apex Legends e até no CBLOL!\n\n🇧🇷 Os jogadores? Brasileiros com sangue nos olhos e coração pantera.\nNomes como FalleN, yuurih e KSCERATO representam a FURIA com raça!",
+            "🔥 A FURIA é muito mais que um time — é uma legião de fãs, paixão brasileira e talento nos eSports!\nTudo começou em 2017, com um time de CS:GO cheio de atitude. Hoje, a FURIA domina várias arenas, de Valorant a League of Legends!\n\n🇧🇷 A alma da FURIA é brasileira. Jogadores como KSCERATO, yuurih e FalleN fizeram (e fazem) história com a camisa preta.\n\n🎮 Quer saber mais? A FURIA também está no CBLOL, nos palcos de Valorant, Apex e até nos tabuleiros digitais do xadrez! ♟️"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

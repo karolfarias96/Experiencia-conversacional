@@ -1,0 +1,54 @@
+{
+  "id": "88643124-6063-4293-88c6-166ce36e90df",
+  "parentId": "6d996da5-3859-495c-8cbd-b52851dc739f",
+  "rootParentId": "6d996da5-3859-495c-8cbd-b52851dc739f",
+  "name": "Direcionamento para os times - LOL",
+  "auto": true,
+  "contexts": [
+    "Direcionamentoparaostimes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Direcionamentoparaostimes.Direcionamentoparaostimes-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "76baf53a-eca8-4fda-a573-504639e4aae4",
+          "name": "unit-length-name",
+          "required": false,
+          "dataType": "@sys.unit-length-name",
+          "value": "$unit-length-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "🐾 Escalação Atual da FURIA LoL (2025)\nTopo: Guilherme \"Guigo\" Ruiz\n\nSelva: Pedro \"Tatu\" Seixas\n\nMeio: Arthur \"Tutsz\" Peixoto Machado\n\nAtirador: Andrey \"Ayu\" Saraiva\n\nSuporte: Gabriel \"JoJo\" Dzelme de Oliveira"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

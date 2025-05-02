@@ -1,0 +1,41 @@
+[
+  {
+    "id": "bd902695-8b97-4903-91e1-151a5fa8b58a",
+    "data": [
+      {
+        "text": "Equipe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8d44648b-c131-4a93-8a54-1fa1fd24bec9",
+    "data": [
+      {
+        "text": "Times",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c98802a3-6f44-4693-8be9-4fd91c11824f",
+    "data": [
+      {
+        "text": "Modalidades de jogos?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

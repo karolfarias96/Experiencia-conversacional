@@ -1,0 +1,68 @@
+{
+  "id": "eaa570c0-f19b-46bc-b5f5-bb0ba02135cc",
+  "parentId": "6d996da5-3859-495c-8cbd-b52851dc739f",
+  "rootParentId": "6d996da5-3859-495c-8cbd-b52851dc739f",
+  "name": "Direcionamento para os times - CS",
+  "auto": true,
+  "contexts": [
+    "Direcionamentoparaostimes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Direcionamentoparaostimes.Direcionamentoparaostimes-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "31c97e03-5df1-4a29-830b-1dfae7fb870e",
+          "name": "geo-state",
+          "required": false,
+          "dataType": "@sys.geo-state",
+          "value": "$geo-state",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "dfe65f89-f74b-4451-908c-fbea2addd47e",
+          "name": "language",
+          "required": false,
+          "dataType": "@sys.language",
+          "value": "$language",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "🐾 Escalação Atual da FURIA CS2 (2025)\nGabriel \"FalleN\" Toledo – Capitão e AWPer\n\nKaike \"KSCERATO\" Cerato – Rifler\n\nYuri \"yuurih\" Santos – Rifler\n\nMarek \"YEKINDAR\" Gaļinskis – Rifler (stand-in)\n\nDanil \"molodoy\" Golubenko – AWPer"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

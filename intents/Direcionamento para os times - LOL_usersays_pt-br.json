@@ -1,0 +1,47 @@
+[
+  {
+    "id": "47ce4552-df98-495f-b614-df17d0ca8d40",
+    "data": [
+      {
+        "text": "League",
+        "meta": "@sys.unit-length-name",
+        "alias": "unit-length-name",
+        "userDefined": false
+      },
+      {
+        "text": " of legends",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "63b53013-6948-4b9f-8030-8a9c80ea0877",
+    "data": [
+      {
+        "text": "Leagueoflegends",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d848a755-b502-4e8b-9f69-5f75e6f9bb83",
+    "data": [
+      {
+        "text": "LOL",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

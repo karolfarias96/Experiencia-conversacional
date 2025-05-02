@@ -1,0 +1,40 @@
+{
+  "id": "6d996da5-3859-495c-8cbd-b52851dc739f",
+  "name": "Direcionamento para os times",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Direcionamentoparaostimes-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Counter-Strike 2 (CS2): Equipe principal e equipe feminina.\n\nLeague of Legends (LoL): Participa do CBLOL, a liga brasileira de LoL.\n\nValorant: Equipe principal e equipe feminina.\n\nRainbow Six Siege: Compete em torneios internacionais.\n\nApex Legends: Equipe sediada nos Estados Unidos.\n\nRocket League: Equipe com participações em campeonatos mundiais.\n\nPUBG Mobile: Equipe ativa na modalidade.\n\nFutebol 7 (Kings League): Participa da liga de futebol 7 criada por Gerard Piqué.\n\nSobre qual deles você gostaria de saber mais informações?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
